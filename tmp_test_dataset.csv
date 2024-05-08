@@ -1,0 +1,150 @@
+﻿발화문,emotion,Intent
+"어, 청소 니가 대신 해 줘!",angry,ask
+둘 다 청소 하기 싫어. 귀찮아.,angry,common
+둘 다 하기 싫어서 화내.,angry,common
+그럼 방세는 어떡해.,worry,common
+권태긴줄 알았는데 다른 사람이 생겼나보더라고.,sadness,common
+그냥 걷고 있어.,neutral,common
+처음 학원에서 만났다가 서로 좋아해서 사귀게 되었지.,happiness,common
+내가 애정 표현을 잘 못해서 자주 싸우긴 했어.,sadness,common
+오늘 헤어졌어.,sadness,common
+룸메이트와 너무 자주 싸우게 돼.,sadness,common
+그러고 싶은데 보증금 때문에 그럴 수가 없어.,sadness,common
+이 회사가 이번 시즌 마지막 회사였어.,neutral,common
+부모님한테 아직 말 안했는데 말하기가 두려워.,fear,common
+아니. 입맛도 없어.,sadness,common
+응. 혼 났지.,sadness,common
+그럴 시간도 없다.,sadness,common
+부모님도 다 슬퍼하셔.,sadness,common
+"그래, 고마워.",happiness,thanks
+"해봤는데, 전화를 안 받네.",angry,common
+"해봤는데, 전화를 안 받네.",sadness,common
+맨날 그래 얘는.,angry,common
+어. 크게 다치진 않았는데.,neutral,common
+일주일에 다섯번은 먹는다니까?,angry,common
+그저께 아파해서 병원을 갔는데 괜찮아지나 싶더니 결국엔 이렇게 됐네.,sadness,common
+"다들 마음이 안좋지. 집에 들어가기도 싫네, 나는.",sadness,common
+응. 그래봐야지. 해피도 오래 살긴 했어.,sadness,common
+그렇지. 뭐 생명까지는 괜찮은데. 우리 마음에 지장이 있네.,sadness,common
+"지난 번에도 드시고 다친 적 있었거든, 얼굴? 이번에 또 그런 거야.",sadness,common
+"다들 지쳤어. 나도 지쳤구, 이제.",sadness,common
+어제 밤 새서 작성한 기획안 다시 해야되네.,angry,common
+어제 밤 새서 작성한 기획안 다시 해야되네.,sadness,common
+"그렇지. 아픈데도 했더니, 참, 근데 맞는 말이라서.",sadness,common
+응. 마음 좀 추스려야지. 근데 내가 잘하는게 없는 거 같네.,sadness,common
+모르겠어. 좀 최대한 추스려볼게.,sadness,common
+노력하면 괜찮아지겠지. 근데 내가 실력이 부족한 건 맞아.,sadness,common
+청소 좀 하고 살자.,angry,common
+응. 그 동안 괜찮았는데.,sadness,common
+응. 인제 병원에서 퇴원하는 길이야.,happiness,common
+이제 두 달 지났어.,neutral,common
+어제 지진 있었잖아. 다행히 다치진 않았어.,relief,common
+옆에서 친구가 넘어져서 발목 다쳤어.,neutral,common
+아니 룸메이트 하기 전에는 그냥 학교에서만 알던 사이?,neutral,common
+또 술 먹고 그랬지 뭐. 지금 병원에 계셔.,sadness,common
+"했는데 소용 없어. 다 포기했어, 지금은.",sadness,common
+응. 걷고 있어.,neutral,positive
+아휴. 이제 내년 거 준비해야지 뭐.,sadness,common
+너무 죄송해서 말도 못하겠어.,sadness,common
+응. 다리 조금 다쳤는데 좀 쉬면 괜찮아질 것 같아.,neutral,positive
+다른 여자가 생겼나봐.,sadness,common
+대학교 때 동아리 선배였었어.,sadness,common
+우리는 싸울 일이 전혀 없었어.,sadness,common
+두 달 됐나봐. 일년 지난 거 같아.,neutral,common
+잘 모르겠어.,sadness,negative
+나 면접에서 떨어졌어.,sadness,common
+집에서 쉬고 있어.,neutral,common
+내일부터 다시 다른데 알아보려고.,neutral,common
+먹었지. 이미 너무 늦은 시간인걸.,neutral,positive
+지난달에 내가 분명히 얘기 했거든? 근데 며칠 가지도 않아.,angry,common
+어제 지진 난 거 알아?,surprise,ask
+나는 괜찮아.,neutral,positive
+친구가 좀 심하게 다쳤어.,sadness,common
+당연히 따로 살고 싶은데 자취방 보증금을 나 혼자 어떻게 내.,angry,common
+벌써 30분은 지난 거 같애.,angry,common
+전화했는데 다와간다는데 안오네 아직도.,angry,common
+"가끔 한 번씩 그러긴 하는데, 오늘은 좀 심하네. 아, 화나!",angry,common
+응. 치워야 되는데 어떡하지? 누가 치우지도 않고 갔네?,angry,positive
+그래야겠다. 좀 이따 보고 내가 치우든지 해야겠다.,neutral,positive
+나 이번 회사 면접 또 떨어졌어.,sadness,common
+엄마 아빠 얼굴도 못 보겠어서 괜히 밖에 돌아다니고 있어.,sadness,common
+당연히 얘기 못했지. 지금 집에도 못 들어가고 있는데.,sadness,positive
+당연히 얘기 못했지. 지금 집에도 못 들어가고 있는데.,neutral,positive
+계속 걱정하느라 밥 생각도 안나.,sadness,common
+"지금 저녁 약속 있어서 친구 기다리는데, 얘가 올 생각을 안 해.",angry,common
+벌써 한 시간이 넘었다. 미친 거 아니야?,angry,common
+당연히 연락 해봤지! 근데 답장도 잘 안해.,angry,positive
+어휴 얘 고등학교 때부터 그랬어.,angry,common
+이걸로 몇 번 싸우기도 했는데 도대체 들어먹질 않어.,angry,common
+룸메와 너무 싸우게 돼.,sadness,common
+방을 너무 지저분하게 써. 경고도 했는데.,sadness,common
+"한 달 전 쯤에 경고를 한 번 줬는데, 좀 고쳐지는 듯 하더니, 또 그러네. 음식물 쓰레기도 막 버리고.",angry,common
+응. 고등학교 동창이야.,neutral,positive
+보증금이 없어서. 한동안 같이 지내야 될 거 같아.,sadness,common
+나 결국 헤어졌어.,sadness,common
+친구였다가 사귀게 됐어.,sadness,common
+아니. 3년동안 한번도 싸운적이 없었어.,sadness,negative
+그렇다고 일찍 퇴근하면 잘 하지도 못하면서 노력도 안한다고 그럴 것 같아.,sadness,common
+내가 부족해서 그런 거 나도 알고 있다니까!,angry,common
+우리 아빠 어제 술먹고 또 사고쳤어.,angry,common
+거의 맨날 먹어. 일주일에 하루 이틀 빼곤 거의 술이야!,angry,common
+엄마는 포기한지 한참됐고 이제 나도 모르겠어.,angry,common
+고등학교 때 엄청 친한 사이였어. 근데 이럴 줄은 몰랐다.,angry,common
+오늘 면접도 다 떨어졌다.,sadness,common
+"아니. 다른 친구들도 다 붙었는데, 염치가 있지. 얘기 못 드렸어.",sadness,negative
+아 몰라 진짜 미쳤나봐. 왜 나한테만 이래.,angry,common
+엄마 아빠도 계속 슬퍼하지.,sadness,common
+말씀 드려야지.,sadness,common
+"할 뻔 했어. 나까지 토할 뻔했다, 야.",disgust,common
+"아니, 아니야. 따뜻한 물도 못 먹겠어.",disgust,negative
+이따 내려가면서 관리실에 얘기해야지.,neutral,common
+이따 내려가면서 관리실에 얘기해야지.,angry,common
+벌써 한 시간 넘어간다. 이거 진짜 너무한 거 아니냐.,angry,common
+얘 고등학교 때부터 유명했어.,angry,common
+나 결국 남자친구랑 헤어졌어.,sadness,common
+자긴 권태긴 것 같다고 시간을 갖자고 그러더라. 그런데 결국 다른 사람이 생긴 것 같아.,sadness,common
+아니. 술 마시고 계단에서 넘어지셔서 지금 병원에 있어.,sadness,negative
+응. 잠깐 허리만 삐끗하신 것 같아.,sadness,positive
+"처음에는 몇 번 했는데, 이제는 거의 포기 상태야.",sadness,common
+사실 두 달도 넘었어.,neutral,common
+룸메랑 싸우는 것도 이제 지긋지긋하다 정말.,angry,common
+당연히 화내봤지! 근데 그것도 그때 뿐이야.,angry,positive
+"보증금이 800인데, 나 혼자서 부담할 수가 없잖아.",sadness,common
+"보증금이 800인데, 나 혼자서 부담할 수가 없잖아.",angry,common
+화장실에 토한 거 그대로 있다.,disgust,common
+속이 미슥미슥 거려. 나도 토할 거 같애.,disgust,common
+그래야겠다. 나가는 김에 얘기하고 가야겠어.,disgust,positive
+"아니, 약속을 해놓고 왜 얘는 이렇게 안 와!",angry,common
+지금 한 시간이 넘었어!,angry,common
+"위로해줘서. 응, 다시 준비해야지.",neutral,positive
+밥? 먹었어 방금.,neutral,negative
+다. 밥? 먹었어 방금.,neutral,positive
+아무리 얘기해도 지가 뭘 잘못했는지를 몰라!,angry,common
+나는 하는 일마다 왜 다 이 모양일까.,sadness,common
+내가 엉망으로 해서 혼난 거라 할 말도 없어.,sadness,common
+당연히 내봤지.,angry,common
+아. 힘들어. 너무 힘들어.,sadness,common
+아. 힘들어. 너무 힘들어.,angry,common
+그래서 따로 방 구하려고. 알아봤어.,neutral,common
+챙겨먹었어?,neutral,ask
+난 잘하는 게 없나봐.,sadness,common
+잠깐 나갔다 올까?,neutral,ask
+일찍은 못 갈 거 같아.,neutral,common
+해피가 어제 세상을 떠났어.,sadness,common
+오래 살았어.,neutral,common
+이제 알아보는 중이야.,neutral,common
+야! 우리 아빠 어제 또 넘어졌어.,angry,common
+술 먹고 그랬지 뭐! 아휴. 몰라!,angry,common
+"생명이 뭐여. 아유, 지장 없어!",neutral,common
+"아유, 주 5일은 먹네, 주 5일은! 어휴, 맨날 먹어, 맨날!",angry,common
+그런 건 소용 없어. 소용 하나도 없어!,angry,common
+괜히 거기로 갔어. 가지 말걸.,sadness,common
+괜히 거기로 갔어. 가지 말걸.,angry,common
+"하, 얼른 잊어버려야지.",sadness,common
+"하, 얼른 잊어버려야지.",angry,common
+아까 이미 말씀드렸어.,neutral,positive
+친구가 다쳤어.,sadness,common
+다들 괜찮은 거 같아.,relief,positive
+"따뜻한 물 마시는 건 솔직히 좀 답이 아닌 거 같고, 그냥 빨리 화장실 가서 볼 일 보고, 맛있는거나 먹으러 가자.",neutral,common
+그래! 관리자한테 말하고 빨리 치우라고 말하자.,neutral,positive
+"한 시간은 된 거 같다, 진짜! 도대체 언제까지! 아, 진짜.",angry,common
