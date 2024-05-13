@@ -1,0 +1,216 @@
+﻿sentence,emotion,intent
+그런가? 아 미안. 너무 짜증나서 그랬어.,angry,apologize
+30분이나 기다렸어. 어? 맨날 이렇게 늦을거야?,angry,ask
+맨날 이렇게 늦을거야?,angry,ask
+아 진짜 니가 욕이라도 해줘. 진짜 화병생기겠어.,angry,ask
+"어, 청소 니가 대신 해 줘!",angry,ask
+"현실적으로 돈 때문에 그건 안 될 것 같고, 하 이걸 계속 참을 수도 없고 어떻게 해야되지?",angry,ask
+화가 나는 내 마음을 달래줄 영상이 있어?,angry,ask
+화가 풀리는 음악으로 부탁해.,angry,ask
+나 룸메이트랑 싸웠어.,angry,common
+응. 자주 그래.,angry,positive
+응. 주의를 한 번 줬지. 그런데 하는 거 같더니만 다시 원래대로 지저분하게 쓰고 있어.,angry,positive
+응. 중학교 동창인데 이렇게까지 더러울줄은 몰랐어.,angry,positive
+응. 치워야 되는데 어떡하지? 누가 치우지도 않고 갔네?,angry,positive
+"응. 해봤는데, 항상 늦는 친구니까.",angry,positive
+"해봤지. 한 두 번이 아니니까. 안 바뀐다, 사람이.",angry,positive
+화를 내 봤지. 근데 며칠만 괜찮아지고 또 그렇게 된다니까?,angry,positive
+화를 내봤지. 근데 안 통해.,angry,positive
+화를 내봤지. 하지만 잠깐 고쳐지는듯 하더니 또다시 시작 돼.,angry,positive
+화를 내지. 자꾸 싸우게 되잖아. 한두번도 아니고.,angry,positive
+화를 많이 냈었지. 그런데 말이 안통해.,angry,positive
+화야 내봤지. 근데 말을 안들어.,angry,positive
+아니 모르셔. 도저히 이야기를 못 하겠어.,angry,negative
+아니. 나한테만 계속 일 워가지고.,angry,negative
+아니. 맨날 그만두고 싶어.,angry,negative
+더러워 죽겠네. 그지않아?,disgust,ask
+ 짜장면에서 벌레가 나와서 더러워서 못 먹겠어. 갖다 버려야할 것 같아!,disgust,common
+"아니, 아니야. 따뜻한 물도 못 먹겠어.",disgust,negative
+화장실은 청소 해도 곰팡이가 없어지질 않아!,disgust,common
+화장실은 청소를 아무리 해도 곰팡이가 안 없어져.,disgust,common
+화장실은 청소를 해도 곰팡이가 사라지지를 않아!,disgust,common
+화장실은 청소를 해도 곰팡이가 사라지질 않아.,disgust,common
+화장실은 청소를 해도 곰팡이가 안 없어져!,disgust,common
+화장실은 청소를 해도 곰팡이가 없어지지 않아!  ,disgust,common
+화장실은 청소를 해도해도 끝이 안나. 곰팡이와의 전쟁이야.,disgust,common
+화장실은 청소해도 곰팡이가 없어지질 않아.,disgust,common
+화장실을 갈 수가 없으니까 물도 마실 수가 없어. 그냥 참고 있어.,disgust,common
+화장실을 누가 토 해 놓고 안 치웠어.,disgust,common
+화장실을 사용할 수 없으니까 관리하는 분한테 말씀드려서 청소를 부탁해야 할 것 같아.,disgust,common
+화장실을 청소해도 곰팡이가 사라지질 않아.,disgust,common
+119 좀 불러줘.,fear,ask
+지진 났잖아. 넌 못 느꼈어?,fear,ask
+"혼자 있는데 나 어떡해.	",fear,ask
+혼자 있으니까 당연히 무섭지. 어떻게 해?,fear,ask
+"응. 지금은 괜찮은데, 지진이 너무 무서워.",fear,positive
+아니. 아직도 가슴이 두근두근 거려.,fear,negative
+"후, 어제 진짜 무서웠어.",fear,common
+힘들게 들어온 회산데 이직하기도 쉽지 않지.,fear,common
+그래야지. 근데 진짜 무섭더라.,fear,positive
+어 나 어제 저녁에 진짜 무서웠어.,fear,positive
+미안해. 경찰로 표현을 정정할게.,happiness,apologize
+함께 일하는 동료가 마음이 잘 맞아. 정말 다행이지?,happiness,ask
+해줘. 기분 좋은 일이 생겼어.,happiness,ask
+해줘. 기분 좋은 일이 있어.,happiness,ask
+200만원짜리 노트북을 구입했는데 늦게 와서 걱정하고 있었어. 오늘 도착해서 너무 기뻐.,happiness,common
+200만원짜리 노트북을 구입했는데 배송이 늦어져서 엄청 걱정했어. 오늘 도착해서 너무 기분이 좋아.,happiness,common
+150만 원짜리 노트북을 샀는데 오늘 배송돼서 기분이 너무 좋아!,happiness,common
+150만원짜리 노트북을 샀는데 오늘 도착해서 기분이 너무 좋아.,happiness,common
+그 때 처음보고 서로 반했지.,happiness,common
+걱정해줘서 고마워.,happiness,thanks
+고마워. 다행히 다치진 않아서 정말 다행이야.,happiness,thanks
+"그래, 고마워.",happiness,thanks
+"그래, 고맙다. 많이 위로가 됐어. 고마워!",happiness,thanks
+그래. 고마워. 위로 받으니까 훨씬 좋다.,happiness,thanks
+그래도 너한테 얘기할 수 있어 다행이다.,happiness,thanks
+먼저 얘기 해달라고 말해줘서 고마워. 힘이 된다.,happiness,thanks
+알려줘서 고마워.,happiness,thanks
+"에구, 진짜 고맙다. 말만 들어도 힘이 난다.",happiness,thanks
+응. 고마워. 좋은데로 꼭 갈거야.,happiness,thanks
+좋은 기획안 쓰기 위해 잠시 머리를 식히는 것도 좋은 것 같애. 조언 고마워.,happiness,thanks
+진짜 고맙다.,happiness,thanks
+해볼게. 너무너무 고마워.,happiness,thanks
+회사에서 힘들었던 점을 너한테 이야기하고 나니까 마음이 좀 풀렸어. 앞으로도 너한테 이야기할게.,happiness,thanks
+힘내서 해볼게!,happiness,thanks
+힘낼게. 고마워.,happiness,thanks
+힘낼게. 정말 고마워.,happiness,thanks
+힘든 일이 있으면 너한테 이야기 할게. 오늘 너무 지치고 힘들었는데 너한테 이야기 하고 나니까 마음이 풀렸어!,happiness,thanks
+힘들 때 너한테 이야기할게. 이야기 할 사람이 있어서 너무 좋다.,happiness,thanks
+힘들 때 또 얘기할게.,happiness,thanks
+힘들 때마다 너한테 이야기 할게. 힘들 때 너한테 이야기할 수 있어서 다행이야.,happiness,thanks
+홀가분한 마음으로 신나는 음악 듣는 것도 좋지.,happiness,positive
+홀가분한 마음으로 신나는 음악을 든는 것도 좋을 것 같아.,happiness,positive
+홀가분한 마음으로 신나는 음악을 듣는 것도 괜찮을 것 같아.,happiness,positive
+홀가분한 마음으로 신나는 음악을 듣는 것도 좋아.,happiness,positive
+홀가분한 마음으로 신나는 음악을 듣는 것도 좋을 것 같아!,happiness,positive
+그건 아니야. 미안해.,neutral,apologize
+그건 아니지. 내가 잘못했던 거 같아.,neutral,apologize
+내가 잘못 생각했네. 미안.,neutral,apologize
+내가 잘못한 거 같애. 반성할게.,neutral,apologize
+미안하다고.,neutral,apologize
+미안해. 내가 말 실수를 했네.,neutral,apologize
+생각이 짧았어. 미안해.,neutral,apologize
+아 그래? 미안. 다음부턴 경찰이라고 부를게.,neutral,apologize
+아 그렇지? 이상한 단어 써서 미안해.,neutral,apologize
+"아 맞아 미안해 말이 잘못 나왔어.	",neutral,apologize
+아 미안 미안. 내가 너무 말이 거칠었다.,neutral,apologize
+"아, 미안해!",neutral,apologize
+아니? 내가 생각이 짧았어. 미안.,neutral,apologize
+아니? 미안해. 다음부턴 구경 안할게.,neutral,apologize
+아니. 이제 짭새란 말 안쓸게. 미안.,neutral,apologize
+아니야. 내가 미안해.,neutral,apologize
+알겠어. 미안해.,neutral,apologize
+알겠어. 미안해. 앞으론 안그럴게.,neutral,apologize
+"알았어, 미안해. 욕은 안할게.",neutral,apologize
+알았어. 미안해.,neutral,apologize
+알았어. 미안해. 앞으로는 경찰이라고 부를게.,neutral,apologize
+어 미안해. 그 표현 이제 안쓸게.,neutral,apologize
+"이번이 마지막이라고 생각했는데, 또 준비 해야겠지?",neutral,ask
+잠깐 나갔다 올까?,neutral,ask
+좀 넘었던가?,neutral,ask
+챙겨먹었어?,neutral,ask
+층으로 가야겠다. 놀라긴. 빨리 가자.,neutral,ask
+해피가 달려가서 사람들이 많이 놀랐겠지?,neutral,ask
+혹시 로또 알아? 1등한다면 10억준다는 그 이벤트야!,neutral,ask
+혹시 좋아하는 여행지가 있어? 나에게 추천해주면 그 때 물어볼게. 고마워.,neutral,ask
+혹시 추천해줄 곰팡이 제거제 있어? 안 그래도 지금 주문하려고. ,neutral,ask
+혼자서 즐길 수 있는 취미를 찾아보고 싶어.,neutral,ask
+20명인가? 그 정도 뽑을걸?,neutral,common
+10년도 넘었지. 고등학교 동창이거든.,neutral,common
+가로수길 걷고 있어.,neutral,common
+걔는 벌써 다른 남자가 생긴 거 같더라.,neutral,common
+그냥 걷고 있어.,neutral,common
+그냥 밖에 돌아다니고 있어.,neutral,common
+나 말고 사람들이 엄청 많이 갔으니까 아마 알고 계실 거야.,neutral,common
+그렇게 말해주는 사람은 너 밖에 없어.,neutral,thanks
+알았어. 들어줘서 고마워.,neutral,thanks
+해피랑 같이 산책 좀 해볼게. 고마워.,neutral,thanks
+"응. 어차피 이번달까지만 사는 걸로 계약 되어 있어서, 조금만 참으면 돼.",neutral,positive
+응. 조금 있다 가서 말씀드릴게.,neutral,positive
+응. 지금 그런 방법도 생각하고 있어.,neutral,positive
+응. 지금 준비하고 있어.,neutral,positive
+정말 따로 사는 게 방법일 수 있겠다. 얘기해 봐야겠어.,neutral,positive
+화 안낼게.,neutral,positive
+확인하지 아무튼 고마워.,neutral,positive
+확인해볼게.,neutral,positive
+후. 알겠어. 한번 믿고 기다려볼게.,neutral,positive
+휴가 기간 내내 비 소식이 있어서 아무 데도 못 갈 거 같아. 너의 말대로 집에서 즐겁게 휴가를 보낼 수 있는 방법을 찾아봐야겠어.,neutral,positive
+그런 사람 있으면 니한테 전화 안했지.,neutral,negative
+말씀 못 드렸어.,neutral,negative
+"아니, 한달 전에 주의 한 번만 해봤어.",neutral,negative
+아니. 3년 간 연애하는 동안 싸운적은 한번도 없었어.,neutral,negative
+아니. 아직 말씀 못드렸어.,neutral,negative
+아니. 아직 모르셔.,neutral,negative
+아니. 우리는 3년동안 한 번도 싸운적이 없어.,neutral,negative
+고마워. 그거 마시고 달래야겠다.,relief,thanks
+응. 그렇게 할게. 고마워.,relief,thanks
+있어서 정말 다행이야. 정말 고마워.,relief,thanks
+응. 지금은 괜찮은 거 같아.,relief,positive
+허리만 삐끗해서 2주 정도 입원해야 된대.,relief,common
+허리만 좀 다치셨대.,relief,common
+혼자 있는데 너랑이라도 대화를 할 수 있어서 다행이야.,relief,common
+나는 괜찮아. 그나마 다행이야.,relief,positive
+다들 괜찮은 거 같아.,relief,positive
+"어, 지금은 안정 된 거 같애.",relief,positive
+내가 잘못한 것 같아. 미안해. 네 덕에 반성한다.,sadness,apologize
+마음이 너무 아프다. 해피가 너무 보고싶고 내가 너무 못해준 거 같아서 미안해.,sadness,apologize
+맞아. 너무 힘들어서 나도 모르게 욕을 해버렸네. 미안.,sadness,apologize
+미안해. 이제 짭새라고 안할게.,sadness,apologize
+우리 가족들도 힘들어서 미안해.,sadness,apologize
+그동안 싸우지도 않았고 사이도 괜찮았는데 왜 그러는 걸까?,sadness,ask
+노력했는데 왜 자꾸 결과가 이럴까? 나 너무 속상해.,sadness,ask
+"해야 할 일이 많은데, 그래도 될까?",sadness,ask
+행복해질려면 어떻게 해야할까?,sadness,ask
+현실적으로 잘 안될 거 같지?,sadness,ask
+혼나는게 하루이틀이겠니. 근데 이번에는 너무 힘들다. 나 왜이런걸까? 난 나름대로 열심히 한다고 하는거거든? 정말 열심히 살고있는데 왜 하나도 하나도 못하는 거 같지? 진짜 못났다 못났어.,sadness,ask
+감기 때문에 힘든데 밤 새워 일했어.,sadness,common
+갑자기 아파서 병원에 갔었거든.,sadness,common
+"거의 매일 드셔서 건강도 걱정되고, 다치구, 그러니 너무 속상하고 힘들어.",sadness,common
+그 동안 싸운 적도 한 번도 없었거든.,sadness,common
+그냥 뭐 다른남자가 좋단다.,sadness,common
+나 남자친구랑 헤어졌어.,sadness,common
+나 또 떨어졌어.,sadness,common
+나 또 면접 떨어졌어.,sadness,common
+고마워. 그래도 마음이 좀 허전하네.,sadness,thanks
+고마워. 덕분에 위로가 되네.,sadness,thanks
+고맙다 그렇게 얘기해줘서. 니밖에 없네.,sadness,thanks
+응. 위로해줘서 고마워.,sadness,thanks
+장례는 잘 했어. 걱정에 고마워.,sadness,thanks
+정이 많이 들었나봐. 고마워.,sadness,thanks
+응. 잠깐 허리만 삐끗하신 것 같아.,sadness,positive
+응. 회사 상사한테 혼났어.,sadness,positive
+그러고 싶다. 근데 할 일이 너무 많아.,sadness,negative
+그러고 싶은데 시간이 없어서.,sadness,negative
+"아니. 다른 친구들도 다 붙었는데, 염치가 있지. 얘기 못 드렸어.",sadness,negative
+"아니. 밥맛도 없고, 그냥 술만 땡긴다.",sadness,negative
+아니. 부모님도 슬퍼하셔서 나도 집에 가기 싫어.,sadness,negative
+아니. 술 마시고 계단에서 넘어지셔서 지금 병원에 있어.,sadness,negative
+아니. 아무도 없어. 난 혼자야.,sadness,negative
+아니. 알아보는 중이야.,sadness,negative
+아 진짜? 그럼 앞으로 욕 안할게. 미안해.,surprise,apologize
+아직 지진이라고 말도 안했는데 어떻게 알았어? 지진이 진짜 세게 왔다니까!,surprise,ask
+어제 지진 난 거 알아?,surprise,ask
+"어제 지진 못 느꼈나, 니.",surprise,ask
+"응. 진짜 놀랬지. 지금은 괜찮긴 한데, 아직도 좀 떨리긴 해.",surprise,positive
+"어. 다른 층을 써야긴 써야겠어. 많이 놀랐고, 그리고.",surprise,positive
+어. 지금도 그대로 있어. 너무 놀라서 뛰쳐나왔잖아.,surprise,positive
+어. 진짜 놀랐어. 다른 층 가봐야겠어.,surprise,positive
+괜찮아? 좀 많이 놀랐지. 지금은 좀 어때?,worry,ask
+그게 좋을까?,worry,ask
+나 면접 또 떨어졌대. 어떡하지?,worry,ask
+난 할 말도 없고 이제 무슨 말을 해야할까?,worry,ask
+다 포기 했어. 어쩌지?,worry,ask
+안 맞으면 따로 살아야겠지?,worry,ask
+"이렇게 계속 다치자, 진짜 죽으면 어떡하지? 걱정돼.",worry,ask
+200만원짜리 노트북을 샀는데 배송이 늦어져서 걱정하고 있었어.,worry,common
+" 아 있는데, 지금 있는 걸로는 못 버틸 거 같애.",worry,common
+고마워. 좋은 곳으로 갔으면 좋겠다.,worry,thanks
+아니. 넘어진 사람들 많더라고. 제 친구도 발목을 다쳐가지고.,worry,negative
+헐! 나 향수 이벤트 1등 당첨 됐어. 대박!,surprise,common
+헐! 대박. 나 이벤트 당첨됐어.,surprise,common
+헐! 맞다 네 말이 맞아! 빨리 확인 해 봐야겠어.,surprise,common
+"헐! 야, 나 이벤트 당첨 됐어.",surprise,common
+헐! 야! 나 이벤트 당첨됐어.,surprise,common
+헐? 나 이벤트 당첨됐어.,surprise,common
+헐. 나 이거 이벤트에 당첨됐어!,surprise,common
+헐. 나 이벤트 1등에 당첨됐어.,surprise,common
