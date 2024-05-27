@@ -1,0 +1,203 @@
+@font-face {
+  font-family: "cookie";         
+  src: url("../fonts/CookieRun.woff");
+}
+body {
+  overflow: hidden;
+  overflow-x: hidden;
+  font-family: "cookie";
+  text-align: center;
+  background-image: url('../BackGround4.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.margin-1{
+  margin-top: 10%;
+}
+
+.logo1{
+  width: 100%;
+  margin-top: 20%;
+}
+.chat-container {
+  height: 90%;
+  font-family: 'cookie';
+  max-width: 85%;
+  margin: 1% auto;
+  border: none;
+  border-radius: 35px; 
+  background-color: rgba(250, 250, 250, 0.8);
+  display: flex;
+  flex-direction: row;
+  height: 750px;
+  background-color: white;
+  color: black;
+  position: relative;
+  display: flex;
+  box-shadow: 0 4px 80px rgba(11, 11, 11, 1); 
+  scrollbar-width: thin;
+  scrollbar-color: #56764B #e9EFDF;
+}
+.chating-container::-webkit-scrollbar {
+  width: 10px;
+  position: absolute;
+  right: 0;
+}
+
+.chating-container::-webkit-scrollbar-track {
+  background: #e9EFDF;
+  border-radius: 10px;
+}
+
+.chating-container::-webkit-scrollbar-thumb {
+  background-color: #56764B;
+  border-radius: 10px;
+  border: 3px solid #56764B;
+}
+
+.chating-container::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
+}
+.left-half{
+  width: 130px;
+  left: 0;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  background-color: #56764B;
+  align-items: flex-start;
+  text-align: center;
+  flex-direction: column;
+} 
+
+.right-half {
+  background-color: #e9EFDF;
+  flex-grow: 1;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  align-items: flex-start;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+  flex-direction: column;
+}
+
+.chat{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  width: 100%;
+  height: 100%;
+}
+
+.right-half input[type="text"] {
+  width: calc(100% - 350px);
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 15px;
+  box-sizing: border-box;
+  font-family: "cookie", cursive;
+  bottom: 0;
+  position: absolute;
+  text-align: left;
+  margin-bottom: 30px;
+  background-color: white;
+  left: 200px;
+  display: flex;
+  font-size: 16px;
+}
+.right-half input[type="text"]:focus{
+  border-color: white; 
+  box-shadow: 0 0 30px rgba(222, 255, 238, 0.897); 
+  outline: none; 
+}
+.right-half img{
+  right: 0;
+  margin-right: 7%;
+  bottom: 30px;
+  position: absolute;
+  width: 43px;
+}
+.right-half img:hover{
+  border-radius: 100px;
+  filter: opacity(80%);
+}
+
+.icon_chat{
+  margin-top: 30px;
+}
+.icon_chat:hover{
+  transition: filter 0.5s ease, opacity 0.5s ease;
+  filter: brightness(0) saturate(100%) invert(12%) sepia(74%) saturate(1250%) hue-rotate(64deg) brightness(80%) contrast(103%);
+}
+.icon_archive{
+  margin-top: 30px;
+  transition: filter 0.5s ease, opacity 0.5s ease;
+}
+.icon_archive:hover{
+  filter: brightness(0) saturate(100%) invert(12%) sepia(74%) saturate(1250%) hue-rotate(64deg) brightness(80%) contrast(103%);
+}
+.icon_settings {
+  position: relative;
+  margin-top: 270px;
+  display: inline-block;
+  transition: filter 0.5s ease, opacity 0.5s ease;
+}
+.icon_settings:hover{
+  filter: brightness(0) saturate(100%) invert(12%) sepia(74%) saturate(1250%) hue-rotate(64deg) brightness(80%) contrast(103%);
+}
+.icon_exit{
+  margin-top: 25px;
+  display: block;
+  transition: filter 0.5s ease, opacity 0.5s ease;
+}
+.icon_exit:hover{
+  filter: brightness(0) saturate(100%) invert(12%) sepia(74%) saturate(1250%) hue-rotate(64deg) brightness(80%) contrast(103%);
+}
+.chating-container{
+  flex-grow: 1;
+  overflow-x: hidden;
+  overflow-y: auto;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  padding-right: 10px;
+  margin-left: 15px;
+  padding: 30px 30px 0 30px;
+}
+.input-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 1%;
+  padding: 0px 20px;
+  background-color: #e9EFDF;
+  flex-shrink: 0;
+}
+.messages {
+  flex-grow: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  font-size: 16px;
+  width: 90%;
+  margin-bottom: 10%;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}
+.message {
+    margin-bottom: 20px; 
+    padding: 13px; 
+    background-color: #56764B;
+    border-radius: 20px; 
+    font-size: 16px; 
+    width: 90%;
+    max-width: none;
+    color: white;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+}

@@ -1,0 +1,129 @@
+body {
+    font-family: "cookie";
+    text-align: center;
+    background-image: url('../BackGround4.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+    height: 100vh;
+}
+.margin{
+    margin-top: 8%;
+}
+.margin-bot{
+    margin-bottom: 8%;
+}
+.pass a {
+    text-decoration: none;
+    color: inherit;
+}
+.pass_p{
+    margin-right: 5px;
+}
+.pass_c{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.pass_p:hover{
+    color: gray;
+}
+.pass_c:hover{
+    color: gray;
+}
+.left-align {
+    text-align: left;
+    font-size: 15px;
+    margin-bottom: 10px;
+    margin-left: 3px;
+}
+.pass_e{
+    margin-left: 5px;
+}
+.pass_e:hover{
+    color: gray;
+}
+.title{
+    text-align: center;
+    font-size: 40px;
+    color: #4c514c;
+    
+}
+@font-face {
+    font-family: "cookie";         
+    src: url("../fonts/CookieRun.woff");
+  }
+.login-container {
+    font-family: 'cookie';
+    max-width: 23%;
+    margin: auto;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 35px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 560px;
+    box-shadow: 0 4px 80px rgba(250, 250, 250, 0.7);
+    background-color: white;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.logo {
+    width: 100px;
+    height: auto; 
+    margin: 0 auto;
+}
+.login-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.login-container input[type="text"],
+.login-container input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-family: "cookie", cursive;
+}
+.login-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #689E55;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-family: "cookie", cursive;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+  
+.login-container button:hover {
+    background-color: #7bbb5d;
+}
+.pass{
+    margin-top: 13px;
+    text-align: center;
+    font-size: 12px;
+    margin-bottom: 12px;
+}
+.google{
+    position: relative;
+    margin-top: 10px;
+    text-align: center;
+    width: 100%; 
+    height : 50px; 
+}
+.google_login img {
+    transition: filter 0.3s;
+  }
+  
+.google_login img:hover {
+    filter: brightness(92%);
+}
+  
