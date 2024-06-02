@@ -1,0 +1,9 @@
+pandas
+transformers==4.41.1
+Cython
+gluonnlp==0.10.0
+mxnet
+torch
+numpy
+sentencepiece
+git+https://github.com/SKTBrain/KoBERT.git#egg=kobert_tokenizer&subdirectory=kobert_hf
