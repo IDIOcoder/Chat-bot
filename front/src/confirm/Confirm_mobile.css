@@ -1,14 +1,13 @@
-/* .email{
-    margin-top: 15%;
-} */
-.confirm-container {
+.margin_em_mobile{
+    margin-top: 35%;
+}
+.confirm-container-mobile {
     font-family: 'cookie';
-    max-width: 23%;
-    margin: auto;
+    max-width: 60%;
+    margin-left: 6%;
     padding: 20px 30px;
     border: none;
     border-radius: 35px; 
-    background-color: rgba(255, 255, 255, 0.8);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -18,7 +17,7 @@
     padding-left: 50px;
     padding-right: 50px;
 }
-.confirm-container input[type="text"]
+.confirm-container-mobile input[type="text"]
 {
     width: 100%;
     padding: 10px;
@@ -28,7 +27,7 @@
     box-sizing: border-box;
     font-family: "cookie", cursive;
 }
-.confirm-container button {
+.confirm-container-mobile button {
     width: 100%;
     padding: 10px;
     background-color: #689E55;
@@ -38,14 +37,14 @@
     cursor: pointer;
     transition: background-color 0.3s;
     font-family: "cookie", cursive;
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
 }
-.confirm-container button:hover{
+.confirm-container-mobile button:hover{
     background-color: #7bbb5d;
 }
 .to_login{
-    margin-top: 10px;
+    margin-top: 8px;
     text-decoration: none;
     color: inherit;
 }

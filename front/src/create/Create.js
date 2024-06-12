@@ -1,8 +1,10 @@
 import React, { useState } from 'react';
 import { CognitoIdentityServiceProvider } from 'aws-sdk';
 import './Create.css';
+import './Create_mobile.css';
 import { useNavigate,Link } from 'react-router-dom';
 import Fade from 'react-reveal';
+import { BrowserView,MobileView } from 'react-device-detect';
 
 const SignUp = () => {
     const [username, setUsername] = useState('');
@@ -14,7 +16,7 @@ const SignUp = () => {
         const cognitoIdentityServiceProvider = new CognitoIdentityServiceProvider({ region: 'ap-northeast-2' });
 
         const params = {
-            ClientId: 'cognito_clientID',
+            ClientId: process.env.REACT_APP_COGNITO_CLIENTID,
             Username: username,
             Password: password,
             UserAttributes: [
@@ -52,6 +54,8 @@ const SignUp = () => {
     };
 
     return (
+        <div>
+            <BrowserView>
         <div className="margin">
             <Fade top delay = {0}>
             <div className='login-container-account'>
@@ -66,6 +70,24 @@ const SignUp = () => {
                 <Link to ='/' className='to_login'>로그인 페이지</Link>
             </div>
             </Fade>
+        </div>
+        </BrowserView>
+        <MobileView>
+        <Fade top delay = {0}>
+            <div className='margin_cr_mobile'/>
+            <div className='login-container-account-mobile'>
+                <h2>회원가입</h2>
+                <div className="c-text-mobile">아이디</div>
+                <input type="text" placeholder="아이디(영문자)" value={username} onChange={(e) => setUsername(e.target.value)} />
+                <div className="c-text-mobile">비밀번호</div>               
+                <input type="password" placeholder="비밀번호(영어,숫자,특수문자 포함 8글자)" value={password} onChange={(e) => setPassword(e.target.value)} />
+                <div className="c-text-mobile">이메일</div>
+                <input type="email" placeholder="예시) 이메일양식@naver.com" value={email} onChange={(e) => setEmail(e.target.value)} />
+                <button onClick={handleSignUp} className='account'>가입하기</button>
+                <Link to ='/' className='to_login'>로그인 페이지</Link>
+            </div>
+            </Fade>
+        </MobileView>
         </div>
     );
 };

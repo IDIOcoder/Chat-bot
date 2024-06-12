@@ -2,7 +2,9 @@ import React, { useState } from 'react';
 import { CognitoIdentityServiceProvider } from 'aws-sdk';
 import { Link } from 'react-router-dom';
 import './Password.css';
+import './Password_mobile.css';
 import { Fade } from 'react-reveal';
+import {BrowserView,MobileView} from "react-device-detect";
 
 const ForgotPassword = () => {
     const [email, setEmail] = useState('');
@@ -15,7 +17,7 @@ const ForgotPassword = () => {
 
     const handleForgotPassword = () => {
         const params = {
-            ClientId: 'Cognito_clientID',
+            ClientId: process.env.REACT_APP_COGNITO_CLIENTID,
             Username: email
         };
 
@@ -31,7 +33,7 @@ const ForgotPassword = () => {
 
     const handleConfirmForgotPassword = () => {
         const params = {
-            ClientId: 'Cognito_clientID',
+            ClientId: process.env.REACT_APP_COGNITO_CLIENTID,
             ConfirmationCode: confirmationCode,
             Password: newPassword,
             Username: email
@@ -66,6 +68,7 @@ const ForgotPassword = () => {
 
     return (
         <div>
+        <BrowserView>
         <div className='margin'></div>
         <Fade left delay = {0}>
         <div className="forgot-password-container">
@@ -87,6 +90,30 @@ const ForgotPassword = () => {
                 <Link to ='/' className='to_login'onClick={reset}>로그인 페이지</Link>
             </div>
             </Fade>
+            </BrowserView>
+    <MobileView>
+        <div className='margin_p_mobile'></div>
+    <Fade left delay = {0}>
+    <div className="forgot-password-container-mobile">
+            <h2>비밀번호 재설정</h2>
+            {!successMessage && (
+                <>
+                    <input type="text" placeholder="아이디" value={email} onChange={(e) => setEmail(e.target.value)} />
+                    <button onClick={handleForgotPassword}>이메일로 인증 코드 전송</button>
+                </>
+            )}
+            {successMessage && <p className="success-message-mobile">{successMessage}</p>}
+            {successMessage && (
+                <>
+                    <input type="text" placeholder="인증 코드" value={confirmationCode} onChange={(e) => setConfirmationCode(e.target.value)} />
+                    <input type="password" placeholder="새 비밀번호" value={newPassword} onChange={(e) => setNewPassword(e.target.value)} />
+                    <button onClick={handleConfirmForgotPassword}>비밀번호 재설정</button>
+                </>
+            )}
+            <Link to ='/' className='to_login'onClick={reset}>로그인 페이지</Link>
+        </div>
+        </Fade>
+        </MobileView>
         </div>
     );
 };

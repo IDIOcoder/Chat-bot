@@ -1,5 +1,13 @@
-.App {
+/* .App {
   text-align: center;
+}
+body {
+  font-family: "cookie";
+  text-align: center;
+  background-position: center;
+  background-size: cover;
+  background-repeat: repeat;
+  background-image: url('icon.png');
 }
 .page {
   position: absolute;
@@ -62,4 +70,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

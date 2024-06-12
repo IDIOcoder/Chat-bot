@@ -2,7 +2,9 @@ import React, { useState } from 'react';
 import { CognitoIdentityServiceProvider } from 'aws-sdk';
 import { Link } from 'react-router-dom';
 import './Confirm.css'
+import './Confirm_mobile.css'
 import { Fade } from 'react-reveal';
+import { BrowserView, MobileView } from 'react-device-detect';
 
 const ConfirmEmail = () => {
     const [confirmationCode, setConfirmationCode] = useState('');
@@ -12,7 +14,7 @@ const ConfirmEmail = () => {
         const cognitoIdentityServiceProvider = new CognitoIdentityServiceProvider({ region: 'ap-northeast-2' });
 
         const params = {
-            ClientId: 'cognito_endpoint',
+            ClientId: process.env.REACT_APP_COGNITO_CLIENTID,
             ConfirmationCode: confirmationCode,
             Username: username,
         };
@@ -42,8 +44,9 @@ const ConfirmEmail = () => {
     };
 
     return (
-        <div>
-            <div className="margin"></div>
+        <div className='email'>
+        <BrowserView>
+            <div className="margin_Con"></div>
             <Fade right delay = {0}>
             <div className='confirm-container'>
             <h2>이메일 확인</h2>
@@ -52,7 +55,20 @@ const ConfirmEmail = () => {
             <button onClick={handleConfirmEmail}>확인</button>
             <Link to ='/' className='to_login'>로그인 페이지</Link>
             </div>
+        </Fade>
+        </BrowserView>
+        <MobileView>
+        <div className='margin_em_mobile'/>
+            <Fade right delay = {0}>
+            <div className='confirm-container-mobile'>
+            <h2>이메일 확인</h2>
+            <input type='text' placeholder="아이디" value={username} onChange={(e) => setUsername(e.target.value)} />
+            <input type="text" placeholder="확인 코드" value={confirmationCode} onChange={(e) => setConfirmationCode(e.target.value)} />
+            <button onClick={handleConfirmEmail}>확인</button>
+            <Link to ='/' className='to_login'>로그인 페이지</Link>
+            </div>
             </Fade>
+        </MobileView>
         </div>
     );
 };
