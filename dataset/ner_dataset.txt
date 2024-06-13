@@ -4,7 +4,8 @@
 만들어 O
 ? O
 
-김치찌개 B-FOOD
+김치 B-FOOD
+찌개 I-FOOD
 레시피 O
 좀 O
 알려주세요 O
@@ -15,62 +16,72 @@
 가르쳐 O
 주세요 O
 
-갈비찜 B-FOOD
+갈비 B-FOOD
+찜 I-FOOD
 은 O
 어떻게 O
 만들어야 O
 하나요 O
 ? O
 
-김치찌개 B-FOOD
+김치 B-FOOD
+찌개 I-FOOD
 레시피 O
 가 O
 필요해요 O
 . O
 
-김치찌개 B-FOOD
+김치 B-FOOD
+찌개 I-FOOD
 만드는 O
 법 O
 좀 O
 알려주세요 O
 . O
 
-김치찌개 B-FOOD
+김치 B-FOOD
+찌개 I-FOOD
 요리법 O
 을 O
 알고 O
 싶어요 O
 . O
 
-김치찌개 B-FOOD
+김치 B-FOOD
+찌개 I-FOOD
 어떻게 O
 만들어요 O
 ? O
 
-김치찌개 B-FOOD
+김치 B-FOOD
+찌개 I-FOOD
 레시피 O
 알려줄래요 O
 ? O
 
-김치찌개 B-FOOD
+김치 B-FOOD
+찌개 I-FOOD
 요리하는 O
 방법 O
 좀 O
 가르쳐주세요 O
 . O
 
-김치찌개 B-FOOD
+김치 B-FOOD
+찌개 I-FOOD
 만드는 O
 방법 O
 알려주세요 O
 . O
 
-김치찌개 B-FOOD
+김치 B-FOOD
+찌개 I-FOOD
 레시피 O
 부탁드립니다 O
 . O
 
-김치찌개 B-FOOD
+김치 B-FOOD
+찌개 I-FOOD
 만드는 O
 법 O
 을 O
@@ -78,60 +89,72 @@
 싶어요 O
 . O
 
-김치찌개 B-FOOD
+김치 B-FOOD
+찌개 I-FOOD
 요리법 O
 좀 O
 알려주시겠어요 O
 ? O
 
-된장찌개 B-FOOD
+된장 B-FOOD
+찌개 I-FOOD
 레시피 O
 가 O
 필요해요 O
 . O
 
-된장찌개 B-FOOD
+된장 B-FOOD
+찌개 I-FOOD
 만드는 O
 법 O
 좀 O
 알려주세요 O
 . O
 
-된장찌개 B-FOOD
-요리법을 O
+된장 B-FOOD
+찌개 I-FOOD
+요리법 O
+을 O
 알고 O
 싶어요 O
 . O
 
-된장찌개 B-FOOD
+된장 B-FOOD
+찌개 I-FOOD
 어떻게 O
 만들어요 O
 ? O
 
-된장찌개 B-FOOD
+된장 B-FOOD
+찌개 I-FOOD
 레시피 O
 알려줄래요 O
 ? O
 
-된장찌개 B-FOOD
+된장 B-FOOD
+찌개 I-FOOD
 요리하는 O
 방법 O
 좀 O
 가르쳐주세요 O
 . O
 
-된장찌개 B-FOOD
+된장 B-FOOD
+찌개 I-FOOD
 만드는 O
 방법 O
 알려주세요 O
 . O
 
-된장찌개 B-FOOD
+된장 B-FOOD
+찌개 I-FOOD
 레시피 O
-부탁드립니다 O
+부탁 O
+드립니다 O
 . O
 
-된장찌개 B-FOOD
+된장 B-FOOD
+찌개 I-FOOD
 만드는 O
 법 O
 을 O
@@ -139,7 +162,8 @@
 싶어요 O
 . O
 
-된장찌개 B-FOOD
+된장 B-FOOD
+찌개 I-FOOD
 요리법 O
 좀 O
 알려주시겠어요 O
@@ -579,55 +603,73 @@
 알려주시겠어요 O
 ? O
 
-순두부찌개 B-FOOD
+순 B-FOOD
+두부 I-FOOD
+찌개 I-FOOD
 레시피 O
 가 O
 필요해요 O
 . O
 
-순두부찌개 B-FOOD
+순 B-FOOD
+두부 I-FOOD
+찌개 I-FOOD
 만드는 O
 법 O
 좀 O
 알려주세요 O
 . O
 
-순두부찌개 B-FOOD
+순 B-FOOD
+두부 I-FOOD
+찌개 I-FOOD
 요리법 O
 을 O
 알고 O
 싶어요 O
 . O
 
-순두부찌개 B-FOOD
+순 B-FOOD
+두부 I-FOOD
+찌개 I-FOOD
 어떻게 O
 만들어요 O
 ? O
 
-순두부찌개 B-FOOD
+순 B-FOOD
+두부 I-FOOD
+찌개 I-FOOD
 레시피 O
 알려줄래요 O
 ? O
 
-순두부찌개 B-FOOD
+순 B-FOOD
+두부 I-FOOD
+찌개 I-FOOD
 요리하는 O
 방법 O
 좀 O
 가르쳐주세요 O
 . O
 
-순두부찌개 B-FOOD
+순 B-FOOD
+두부 I-FOOD
+찌개 I-FOOD
 만드는 O
 방법 O
 알려주세요 O
 . O
 
-순두부찌개 B-FOOD
+순 B-FOOD
+두부 I-FOOD
+찌개 I-FOOD
 레시피 O
 부탁드립니다 O
 . O
 
-순두부찌개 B-FOOD
+순 B-FOOD
+두부 I-FOOD
+찌개 I-FOOD
 만드는 O
 법 O
 을 O
@@ -635,7 +677,9 @@
 싶어요 O
 . O
 
-순두부찌개 B-FOOD
+순 B-FOOD
+두부 I-FOOD
+찌개 I-FOOD
 요리법 O
 좀 O
 알려주시겠어요 O
@@ -679,3 +723,1417 @@
 보고 O
 싶어요 O
 . O
+
+힛파리 B-FOOD
+우동 I-FOOD
+과 O
+가야키 B-FOOD
+를 O
+만들어 O
+보려고 O
+해요 O
+. O
+어떻게 O
+만드나요 O
+? O
+
+주말에 O
+힛파리 B-FOOD
+우동 I-FOOD
+과 O
+가야키 B-FOOD
+를 O
+만들고 O
+싶어요 O
+. O
+레시피를 O
+알려주세요. O
+
+LA B-FOOD
+갈비 I-FOOD
+만드는 O
+법이 O
+궁금해요. O
+
+오늘 O
+LA B-FOOD
+갈비 I-FOOD
+를 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+가는 B-FOOD
+파 I-FOOD
+잡채 I-FOOD
+를 O
+만들어 O
+보려고 O
+해요. O
+어떻게 O
+만드나요? O
+
+주말에 O
+가는 B-FOOD
+파 I-FOOD
+잡채 I-FOOD
+를 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+주말에 O
+가니타마돈 B-FOOD
+을 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+주말에 O
+게살 B-FOOD
+계란 I-FOOD
+덮밥 I-FOOD
+을 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+집에서 O
+가니타마돈 B-FOOD
+을 O
+어떻게 O
+만들 O
+수 O
+있나요 O
+
+집에서 O
+게살 B-FOOD
+계란 I-FOOD
+덮밥 I-FOOD
+을 O
+어떻게 O
+만들 O
+수 O
+있나요 O
+? O
+
+가래떡 B-FOOD
+꼬치 I-FOOD
+를 O
+만들어 O
+보려고 O
+해요. O
+어떻게 O
+만드나요 O
+? O
+
+가래떡 B-FOOD
+꼬치 I-FOOD
+레시피 O
+알려주세요 O
+. O
+
+주말에 O
+가레이 B-FOOD
+니쓰케 I-FOOD
+를 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+주말에 O
+가자미 B-FOOD
+조림 I-FOOD
+을 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+가레이 B-FOOD
+니쓰케 I-FOOD
+를 O
+맛있게 O
+만드는 O
+방법을 O
+알고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+가자미 B-FOOD
+조림 I-FOOD
+을 O
+맛있게 O
+만드는 O
+방법을 O
+알고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+가린토 B-FOOD
+는 O
+어떻게 O
+만드나요? O
+
+주말에 O
+가린토 B-FOOD
+를 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+가보차노 B-FOOD
+니모노 I-FOOD
+를 O
+만들어 O
+보려고 O
+해요. O
+어떻게 O
+만드나요? O
+
+주말에 O
+가보차노 B-FOOD
+니모노 I-FOOD
+를 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+단호박 B-FOOD
+조림 I-FOOD
+을 O
+만들어 O
+보려고 O
+해요. O
+어떻게 O
+만드나요? O
+
+주말에 O
+단호박 B-FOOD
+조림 I-FOOD
+을 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+주말에 O
+가보차프린 B-FOOD
+, O
+호박 B-FOOD
+푸딩 I-FOOD
+을 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+가보차프린 B-FOOD
+, O
+호박 B-FOOD
+푸딩 I-FOOD
+을 O
+만들어 O
+보려고 O
+해요. O
+어떻게 O
+만드나요? O
+
+가오리 B-FOOD
+매운 I-FOOD
+탕 I-FOOD
+을 O
+맛있게 O
+만드는 O
+방법을 O
+알고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+주말에 O
+가오리 B-FOOD
+매운 I-FOOD
+탕 I-FOOD
+을 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+오늘 O
+가자미 B-FOOD
+식해 I-FOOD
+를 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+가자미 B-FOOD
+식해 I-FOOD
+만드는 O
+법이 O
+궁금해요. O
+
+오늘 O
+가자미 B-FOOD
+쑥 I-FOOD
+국 I-FOOD
+을 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+가자미 B-FOOD
+쑥 I-FOOD
+국 I-FOOD
+만드는 O
+법이 O
+궁금해요. O
+
+가자미 B-FOOD
+전 I-FOOD
+을 O
+맛있게 O
+만드는 O
+방법을 O
+알고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+가자미 B-FOOD
+전 I-FOOD
+만드는 O
+법 O
+알려주세요. O
+
+가지 B-FOOD
+탕수육 I-FOOD
+을 O
+맛있게 O
+만드는 O
+방법을 O
+알고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+오늘 O
+가지 B-FOOD
+탕수육 I-FOOD
+을 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+가지 B-FOOD
+겉절이 I-FOOD
+를 O
+맛있게 O
+만드는 O
+방법을 O
+알고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+집에서 O
+가지 B-FOOD
+겉절이 I-FOOD
+를 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+오늘 O
+가지 B-FOOD
+그라탕 I-FOOD
+을 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+오늘 O
+가지 B-FOOD
+그라탕 I-FOOD
+을 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+가지 B-FOOD
+김치 I-FOOD
+를 O
+맛있게 O
+만드는 O
+법을 O
+알고싶어요. O
+
+오늘 O
+가지 B-FOOD
+김치 I-FOOD
+를 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+가지 B-FOOD
+나물 I-FOOD
+만드는 O
+법 O
+알려주세요. O
+
+가지 B-FOOD
+나물 I-FOOD
+냉 I-FOOD
+국 I-FOOD
+만드는 O
+법 O
+알려주세요. O
+
+가지 B-FOOD
+나물 I-FOOD
+냉 I-FOOD
+국 I-FOOD
+레시피 O
+알려주세요. O
+
+가지 B-FOOD
+냉 I-FOOD
+국 I-FOOD
+을 O
+만들어 O
+보려고 O
+해요. O
+어떻게 O
+만드나요? O
+
+가지 B-FOOD
+냉 I-FOOD
+국 I-FOOD
+은 O
+어떻게 O
+만드나요? O
+
+가지 B-FOOD
+된장 I-FOOD
+구이 I-FOOD
+와 O
+가지 B-FOOD
+조림 I-FOOD
+을 O
+만들어 O
+보려고 O
+해요. O
+어떻게 O
+만드나요? O
+
+주말에 O
+가지 B-FOOD
+된장 I-FOOD
+구이 I-FOOD
+와 O
+가지 B-FOOD
+조림 I-FOOD
+을 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+가지 B-FOOD
+된장 I-FOOD
+찜 I-FOOD
+은 O
+어떻게 O
+만드나요? O
+
+집에서 O
+가지 B-FOOD
+두부 I-FOOD
+스테이크 I-FOOD
+를 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+가지 B-FOOD
+라따뚜이 I-FOOD
+를 O
+맛있게 O
+만드는 O
+법을 O
+알고싶어요. O
+
+집에서 O
+가지 B-FOOD
+말이 I-FOOD
+를 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+오늘 O
+가지 B-FOOD
+말이 I-FOOD
+를 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+오늘 O
+가지 B-FOOD
+말이 I-FOOD
+구이 I-FOOD
+를 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+주말에 O
+가지 B-FOOD
+말이 I-FOOD
+구이 I-FOOD
+를 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+가지 B-FOOD
+말이 B-FOOD
+밥 B-FOOD
+은 O
+어떻게 O
+만드나요? O
+
+주말에 O
+가지 B-FOOD
+말이 B-FOOD
+밥 B-FOOD
+을 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+집에서 O
+가지 B-FOOD
+말이 I-FOOD
+샐러드 I-FOOD
+를 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+가지 B-FOOD
+말이 I-FOOD
+샐러드 I-FOOD
+를 O
+맛있게 O
+만드는 O
+방법을 O
+알고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+오늘 O
+가지 B-FOOD
+무침 I-FOOD
+과 O
+호박 B-FOOD
+잎 I-FOOD
+쌈 I-FOOD
+밥 I-FOOD
+을 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+집에서 O
+가지 B-FOOD
+무침 I-FOOD
+과 O
+호박 B-FOOD
+잎 I-FOOD
+쌈 I-FOOD
+밥 I-FOOD
+을 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+가지 B-FOOD
+밥 I-FOOD
+만드는 O
+법이 O
+궁금해요. O
+
+가지 B-FOOD
+밥 I-FOOD
+만드는 O
+법 O
+알려주세요. O
+
+가지 B-FOOD
+볶음 I-FOOD
+만드는 O
+법이 O
+궁금해요. O
+
+가지 B-FOOD
+볶음 I-FOOD
+을 O
+만들어 O
+보려고 O
+해요. O
+어떻게 O
+만드나요? O
+
+가지 B-FOOD
+볶음 I-FOOD
+밥 I-FOOD
+만드는 O
+법 O
+알려주세요. O
+
+집에서 O
+가지 B-FOOD
+볶음 I-FOOD
+밥 I-FOOD
+을 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+오늘 O
+가지 B-FOOD
+쇠고기 I-FOOD
+볶음 I-FOOD
+을 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+가지 B-FOOD
+스테이크 I-FOOD
+를 O
+맛있게 O
+만드는 O
+법을 O
+알고싶어요. O
+
+가지 B-FOOD
+스테이크 I-FOOD
+는 O
+어떻게 O
+만드나요? O
+
+가지 B-FOOD
+연어 I-FOOD
+구이 I-FOOD
+를 O
+맛있게 O
+만드는 O
+법을 O
+알고싶어요. O
+
+가지 B-FOOD
+연어 I-FOOD
+구이 I-FOOD
+는 O
+어떻게 O
+만드나요? O
+
+가지 B-FOOD
+찜 I-FOOD
+은 O
+어떻게 O
+만드나요? O
+
+가지 B-FOOD
+찜 I-FOOD
+을 O
+만들어 O
+보려고 O
+해요. O
+어떻게 O
+만드나요? O
+
+가지 B-FOOD
+탕수 I-FOOD
+를 O
+맛있게 O
+만드는 O
+방법을 O
+알고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+집에서 O
+가지 B-FOOD
+탕수 I-FOOD
+를 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+주말에 O
+가지 B-FOOD
+토마토 I-FOOD
+구이 I-FOOD
+를 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+가지 B-FOOD
+토마토 I-FOOD
+구이 I-FOOD
+만드는 O
+법 O
+알려주세요. O
+
+주말에 O
+가지 B-FOOD
+튀김 I-FOOD
+을 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+오늘 O
+가지 B-FOOD
+튀김 I-FOOD
+을 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+가지 B-FOOD
+피클 I-FOOD
+을 O
+맛있게 O
+만드는 O
+방법을 O
+알고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+가지 B-FOOD
+피클 I-FOOD
+을 O
+맛있게 O
+만드는 O
+방법을 O
+알고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+가키아게 B-FOOD
+를 O
+만들어 O
+보려고 O
+해요. O
+어떻게 O
+만드나요? O
+
+집에서 O
+가키아게 B-FOOD
+를 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+모듬 B-FOOD
+튀김 I-FOOD
+을 O
+만들어 O
+보려고 O
+해요. O
+어떻게 O
+만드나요? O
+
+집에서 O
+모듬 B-FOOD
+튀김 I-FOOD
+을 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+오늘 O
+가키후라이 B-FOOD
+을 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+가키후라이 B-FOOD
+을 O
+맛있게 O
+만드는 O
+방법을 O
+알고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+오늘 O
+굴 B-FOOD
+튀김 I-FOOD
+을 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+굴 B-FOOD
+튀김 I-FOOD
+을 O
+맛있게 O
+만드는 O
+방법을 O
+알고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+간단 O
+에너지 B-FOOD
+부스트 I-FOOD
+스무디 I-FOOD
+레시피 O
+알려주세요. O
+
+간단 O
+에너지 B-FOOD
+부스트 I-FOOD
+스무디 I-FOOD
+를 O
+만들어 O
+보려고 O
+해요. O
+어떻게 O
+만드나요? O
+
+주말에 O
+간장 B-FOOD
+을 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+간장 B-FOOD
+을 O
+만들어 O
+보려고 O
+해요. O
+어떻게 O
+만드나요? O
+
+간장 B-FOOD
+게 I-FOOD
+장 I-FOOD
+은 O
+어떻게 O
+만드나요? O
+
+간장 B-FOOD
+곤약 I-FOOD
+볶음 I-FOOD
+국수 I-FOOD
+는 O
+어떻게 O
+만드나요? O
+
+주말에 O
+간장 B-FOOD
+곤약 I-FOOD
+볶음 I-FOOD
+국수 I-FOOD
+를 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+간장 B-FOOD
+꽃게 I-FOOD
+찜 I-FOOD
+은 O
+어떻게 O
+만드나요? O
+
+집에서 O
+간장 B-FOOD
+꽃게 I-FOOD
+찜 I-FOOD
+을 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+간장 B-FOOD
+떡볶이 I-FOOD
+는 O
+어떻게 O
+만드나요? O
+
+주말에 O
+간장 B-FOOD
+떡볶이 I-FOOD
+를 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+간장 B-FOOD
+새우 I-FOOD
+장 I-FOOD
+레시피 O
+알려주세요. O
+
+집에서 O
+간장 B-FOOD
+새우 I-FOOD
+장 I-FOOD
+을 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+오늘 O
+간장소스를 O
+곁들인 O
+새우 B-FOOD
+전복 I-FOOD
+찜 I-FOOD
+을 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+주말에 O
+간장소스를 O
+곁들인 O
+새우 B-FOOD
+전복 I-FOOD
+찜 I-FOOD
+을 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+집에서 O
+간장 B-FOOD
+아귀 I-FOOD
+찜 I-FOOD
+을 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+간장 B-FOOD
+아귀 I-FOOD
+찜 I-FOOD
+은 O
+어떻게 O
+만드나요? O
+
+주말에 O
+간장 B-FOOD
+찜 I-FOOD
+닭 I-FOOD
+을 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+오늘 O
+간편 O
+조기 B-FOOD
+찜 I-FOOD
+을 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+집에서 O
+간편 O
+조기 B-FOOD
+찜 I-FOOD
+을 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+간편 O
+콩 B-FOOD
+국수 I-FOOD
+를 O
+맛있게 O
+만드는 O
+방법을 O
+알고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+간편 O
+콩 B-FOOD
+국수 I-FOOD
+를 O
+만들어 O
+보려고 O
+해요. O
+어떻게 O
+만드나요? O
+
+갈릭 B-FOOD
+칩 I-FOOD
+동태 I-FOOD
+구이 I-FOOD
+를 O
+맛있게 O
+만드는 O
+방법을 O
+알고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+오늘 O
+갈릭 B-FOOD
+칩 I-FOOD
+동태 I-FOOD
+구이 I-FOOD
+를 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+집에서 O
+갈비 B-FOOD
+구이 I-FOOD
+를 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+갈비 B-FOOD
+구이 I-FOOD
+를 O
+만드는 O
+법이 O
+궁금해요. O
+
+갈비 B-FOOD
+떡볶이 I-FOOD
+만드는 O
+법이 O
+궁금해요. O
+
+갈비 B-FOOD
+떡볶이 I-FOOD
+를 O
+맛있게 O
+만드는 O
+법을 O
+알고싶어요. O
+
+갈비 B-FOOD
+찜 I-FOOD
+을 O
+만들어 O
+보려고 O
+해요. O
+어떻게 O
+만드나요? O
+
+집에서 O
+갈비 B-FOOD
+찜 I-FOOD
+을 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+갈비 B-FOOD
+탕 I-FOOD
+을 O
+맛있게 O
+만드는 O
+방법을 O
+알고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+오늘 O
+갈비 B-FOOD
+탕 I-FOOD
+을 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+오늘 O
+갈치 B-FOOD
+고추 I-FOOD
+장 I-FOOD
+구이 I-FOOD
+를 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+갈치 B-FOOD
+고추 I-FOOD
+장 I-FOOD
+구이 I-FOOD
+만드는 O
+법이 O
+궁금해요. O
+
+집에서 O
+갈치 B-FOOD
+구이 I-FOOD
+를 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+주말에 O
+갈치 B-FOOD
+구이 I-FOOD
+를 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+갈치 B-FOOD
+무 I-FOOD
+조림 I-FOOD
+을 O
+맛있게 O
+만드는 O
+방법을 O
+알고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+갈치 B-FOOD
+무 I-FOOD
+조림 I-FOOD
+만드는 O
+법 O
+알려주세요. O
+
+집에서 O
+갈치 B-FOOD
+조림 I-FOOD
+을 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+갈치 B-FOOD
+조림 I-FOOD
+은 O
+어떻게 O
+만드나요? O
+
+감귤 B-FOOD
+김치 I-FOOD
+는 O
+어떻게 O
+만드나요? O
+
+오늘 O
+감귤 B-FOOD
+김치 I-FOOD
+를 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+감귤 B-FOOD
+콩 I-FOOD
+샐러드 I-FOOD
+는 O
+어떻게 O
+만드나요? O
+
+집에서 O
+감귤 B-FOOD
+콩 I-FOOD
+샐러드 I-FOOD
+를 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+감 B-FOOD
+닭 I-FOOD
+떡 I-FOOD
+갈비 I-FOOD
+를 O
+만들어 O
+보려고 O
+해요. O
+어떻게 O
+만드나요? O
+
+집에서 O
+감동젓 B-FOOD
+무 I-FOOD
+김치 I-FOOD
+를 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+감동젓 B-FOOD
+무 I-FOOD
+김치 I-FOOD
+는 O
+어떻게 O
+만드나요? O
+
+감 B-FOOD
+말랭이 I-FOOD
+찰 I-FOOD
+빵 I-FOOD
+레시피 O
+알려주세요. O
+
+감 B-FOOD
+말랭이 I-FOOD
+찰 I-FOOD
+빵 I-FOOD
+은 O
+어떻게 O
+만드나요? O
+
+감바스 B-FOOD
+알 I-FOOD
+아히요 I-FOOD
+레시피 O
+알려주세요. O
+
+주말에 O
+감바스 B-FOOD
+알 I-FOOD
+아히요 I-FOOD
+를 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+감자 B-FOOD
+스프 I-FOOD
+는 O
+어떻게 O
+만드나요? O
+
+주말에 O
+감자 B-FOOD
+스프 I-FOOD
+를 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+주말에 O
+감자 B-FOOD
+주먹 I-FOOD
+밥 I-FOOD
+을 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+오늘 O
+감자 B-FOOD
+주먹 I-FOOD
+밥 I-FOOD
+을 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+감자 B-FOOD
+크로켓 I-FOOD
+레시피 O
+알려주세요. O
+
+감자 O
+감자 B-FOOD
+크로켓 I-FOOD
+을 O
+만들어 O
+보려고 O
+해요. O
+어떻게 O
+만드나요? O
+
+감자 B-FOOD
+팬 I-FOOD
+케익 I-FOOD
+을 O
+맛있게 O
+만드는 O
+법을 O
+알고싶어요. O
+
+집에서 O
+감자 B-FOOD
+팬 I-FOOD
+케익 I-FOOD
+을 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+감자 B-FOOD
+고추 I-FOOD
+채 I-FOOD
+볶음 I-FOOD
+만드는 O
+법 O
+알려주세요. O
+
+오늘 O
+감자 B-FOOD
+고추 I-FOOD
+채 I-FOOD
+볶음 I-FOOD
+을 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+감자 B-FOOD
+국수 I-FOOD
+만드는 O
+법이 O
+궁금해요. O
+
+오늘 O
+감자 B-FOOD
+국수 I-FOOD
+를 O
+해볼까 O
+하는데 O
+어떻게 O
+만드나요? O
+
+집에서 O
+감자 B-FOOD
+그라탕 I-FOOD
+을 O
+어떻게 O
+만들 O
+수 O
+있나요? O
+
+감자 B-FOOD
+그라탕 I-FOOD
+을 O
+맛있게 O
+만드는 O
+방법을 O
+알고 O
+싶어요. O
+레시피를 O
+알려주세요. O
+
+감자 B-FOOD
+냉 I-FOOD
+채 I-FOOD
+는 O
+어떻게 O
+만드나요? O
+
+감자 B-FOOD
+냉 I-FOOD
+채 I-FOOD
+만드는 O
+법 O
+알려주세요. O
+
+주말에 O
+감자 B-FOOD
+느타리버섯 I-FOOD
+국 I-FOOD
+을 O
+만들고 O
+싶어요. O
+레시피를 O
+알려주세요. O
