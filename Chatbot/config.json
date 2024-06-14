@@ -1,6 +1,0 @@
-{
-  "emotion_path": "./weights/emotion_weights.pth",
-  "text_path": "./weights/textGenerator_weights.pth",
-  "intent_path": "./weights/intent_weights.pth",
-  "ner_path": "./weights/NER_weights.pth"
-}
